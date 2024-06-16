@@ -61,6 +61,6 @@ Kami menganalisis data transaksi untuk mengidentifikasi pola pendapatan dan memb
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami melalui [email Anda].
+Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami melalui marciadevana20@gmail.com.
 
 Terima kasih telah melihat proyek kami!
