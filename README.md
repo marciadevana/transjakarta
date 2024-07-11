@@ -1,8 +1,8 @@
-# Transjakarta Project
+# Transjakarta Group Project
 
 ## Deskripsi Proyek
 
-Proyek ini berfokus pada analisis dan optimalisasi rute dan pendapatan Transjakarta, termasuk layanan RoyalTrans dan JakLingko. Dataset yang digunakan dalam proyek ini diambil dari [Kaggle](https://www.kaggle.com/datasets/dikisahkan/transjakarta-transportation-transaction/data).
+Proyek Kelompok ini berfokus pada analisis dan optimalisasi rute dan pendapatan Transjakarta, termasuk layanan RoyalTrans dan JakLingko. Dataset yang digunakan dalam proyek ini diambil dari [Kaggle](https://www.kaggle.com/datasets/dikisahkan/transjakarta-transportation-transaction/data).
 
 ## Isi Proyek
 
